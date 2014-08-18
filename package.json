@@ -18,7 +18,7 @@
   "dependencies": {
     "grunt": "~0.3.9",
     "underscore": "1.4.2",
-    "docco-husky": "https://github.com/vytch/docco-husky/tarball/5a1693ff0852f433ada569f8eabfe95c50b52dda"
+    "docco-husky": "https://github.com/vytch/docco-husky/tarball/7d1688e1fcb0add1473046a5d6d4efe855476402"
   },
   "author": "Vy Hoang",
   "license": "BSD"
